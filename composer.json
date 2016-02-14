@@ -1,5 +1,5 @@
 {
-	"name": "pseudoagentur/soa-sentinel",
+	"name": "jetcms/soa-sentinel",
 	"description": "Administrative interface builder for Laravel with Sentinel Integration",
 	"homepage": "http://docs.pseudoagentur.de",
 	"keywords": [
@@ -21,6 +21,10 @@
 		{
 			"name": "Heiko Bihlmaier",
 			"email": "mail@heiko-bihlmaier.com"
+		},
+		{
+			"name": "Suroviy",
+			"email": "Suroviy@bk.ru"
 		}
 	],
 	"require": {
